@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -22,3 +23,6 @@ The above is from 2017-05-06, and the latest set of open tabs is:
 6. https://www.veracode.com/security/sql-injection
 7. https://www.vagrantup.com/docs/docker/basics.html
 8. https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
+=======
+# owasp-top-10
+>>>>>>> d20eee5f6778c222bb6799543caf6ce6507350ff
