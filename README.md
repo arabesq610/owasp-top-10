@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-
 
 1. Install virtualbox and vagrant if you haven't already; then...
 2. `$ vagrant box add bento/fedora-25`, or see [HashiCorp's Atlas box catalog](https://atlas.hashicorp.com/boxes/search?_ga=2.180367406.803294449.1494117131-1807345509.1494115466)3. `$ vagrant init bento/fedora-25; vagrant up --provider virtualbox`
@@ -25,4 +22,3 @@ The above is from 2017-05-06, and the latest set of open tabs is:
 8. https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 =======
 # owasp-top-10
->>>>>>> d20eee5f6778c222bb6799543caf6ce6507350ff
