@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 node_modules
 .vagrant
 =======
@@ -39,4 +38,3 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
->>>>>>> d20eee5f6778c222bb6799543caf6ce6507350ff

@@ -1,8 +1,6 @@
 OK Forget all that, and from https://www.linode.com/docs/applications/containers/how-to-install-docker-and-deploy-a-lamp-stack...
 `$ sudo docker run -p 80:80 -t -i linode/lamp /bin/bash`
 
-
-
 1. Install virtualbox and vagrant if you haven't already; then...
 2. `$ vagrant box add bento/fedora-25`, or see [HashiCorp's Atlas box catalog](https://atlas.hashicorp.com/boxes/search?_ga=2.180367406.803294449.1494117131-1807345509.1494115466)3. `$ vagrant init bento/fedora-25; vagrant up --provider virtualbox`
 3. `$ vagrant init williamyeh/ubuntu-trusty64-docker; vagrant up --provider virtualbox`
